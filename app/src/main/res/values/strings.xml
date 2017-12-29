@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Profile</string>
+    <string name="start_smart_profile">Start Smart Profile</string>
+    <string name="stop_smart_profile">Stop Smart Profile</string>
+</resources>
